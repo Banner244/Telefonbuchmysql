@@ -1,0 +1,11 @@
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\mysqltelefonbuch\mysqltelefonbuch\bin\Debug\mysqltelefonbuch.exe.config
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\mysqltelefonbuch\mysqltelefonbuch\bin\Debug\mysqltelefonbuch.exe
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\mysqltelefonbuch\mysqltelefonbuch\bin\Debug\mysqltelefonbuch.pdb
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\mysqltelefonbuch\mysqltelefonbuch\bin\Debug\MySql.Data.dll
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\mysqltelefonbuch\mysqltelefonbuch\obj\Debug\mysqltelefonbuch.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\mysqltelefonbuch\mysqltelefonbuch\obj\Debug\mysqltelefonbuch.Form1.resources
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\mysqltelefonbuch\mysqltelefonbuch\obj\Debug\mysqltelefonbuch.Properties.Resources.resources
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\mysqltelefonbuch\mysqltelefonbuch\obj\Debug\mysqltelefonbuch.csproj.GenerateResource.Cache
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\mysqltelefonbuch\mysqltelefonbuch\obj\Debug\mysqltelefonbuch.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\mysqltelefonbuch\mysqltelefonbuch\obj\Debug\mysqltelefonbuch.exe
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\mysqltelefonbuch\mysqltelefonbuch\obj\Debug\mysqltelefonbuch.pdb
